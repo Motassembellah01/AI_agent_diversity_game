@@ -29,7 +29,6 @@ The primary goal is to implement an AI agent that can:
 The project is assessed on:
 - Performance of the agent against baseline and competitive opponents
 - Clarity and quality of the strategic design
-- A professional report detailing the methodology, results, and analysis
 
 ## 📄 Deliverables
 
